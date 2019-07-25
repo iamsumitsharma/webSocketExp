@@ -1,3 +1,10 @@
+UI to show sent and recieved messages.
+It is connected to my web socket.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
